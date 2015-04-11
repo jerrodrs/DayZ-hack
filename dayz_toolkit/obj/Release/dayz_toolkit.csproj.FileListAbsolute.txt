@@ -1,0 +1,11 @@
+C:\Users\Jerrod\documents\visual studio 2013\Projects\dayz_toolkit\dayz_toolkit\bin\Release\dayz_toolkit.exe.config
+C:\Users\Jerrod\documents\visual studio 2013\Projects\dayz_toolkit\dayz_toolkit\bin\Release\dayz_toolkit.exe
+C:\Users\Jerrod\documents\visual studio 2013\Projects\dayz_toolkit\dayz_toolkit\bin\Release\dayz_toolkit.pdb
+C:\Users\Jerrod\documents\visual studio 2013\Projects\dayz_toolkit\dayz_toolkit\obj\Release\dayz_toolkit.dayztk.resources
+C:\Users\Jerrod\documents\visual studio 2013\Projects\dayz_toolkit\dayz_toolkit\obj\Release\dayz_toolkit.gameOverlay.resources
+C:\Users\Jerrod\documents\visual studio 2013\Projects\dayz_toolkit\dayz_toolkit\obj\Release\dayz_toolkit.Properties.Resources.resources
+C:\Users\Jerrod\documents\visual studio 2013\Projects\dayz_toolkit\dayz_toolkit\obj\Release\dayz_toolkit.csproj.GenerateResource.Cache
+C:\Users\Jerrod\documents\visual studio 2013\Projects\dayz_toolkit\dayz_toolkit\obj\Release\dayz_toolkit.exe
+C:\Users\Jerrod\documents\visual studio 2013\Projects\dayz_toolkit\dayz_toolkit\obj\Release\dayz_toolkit.pdb
+C:\Users\Jerrod\documents\visual studio 2013\Projects\dayz_toolkit\dayz_toolkit\obj\Release\dayz_toolkit.csprojResolveAssemblyReference.cache
+C:\Users\Jerrod\documents\visual studio 2013\Projects\dayz_toolkit\dayz_toolkit\obj\Release\dayz_toolkit.playerItems.resources
